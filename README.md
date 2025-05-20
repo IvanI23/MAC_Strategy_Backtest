@@ -18,7 +18,7 @@ Bearish signals are created when the 50-day SMA crosses below the 200-day SMA.
 ## Performance metrics
 
 - Cumualative returns  
-- Annalised returns  
+- Annualised returns  
 - CAGR  
 - Volatility  
 - Sharpe ratio  
