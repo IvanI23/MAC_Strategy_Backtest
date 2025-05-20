@@ -1,0 +1,14 @@
+Analysis of AVGO from 2015-01-01 to 2024-12-31
+
+Cumulative Strategy Return: 722.29%
+Cumulative Buy & Hold Return: 2988.06%
+Annualized Strategy Return: 30.06%
+Annualized Buy & Hold Return: 51.19%
+CAGR Strategy: 23.45%
+CAGR Buy & Hold: 40.92%
+Strategy Volatility: 32.19%
+Buy & Hold Volatility: 37.43%
+Sharpe Ratio Strategy: 0.05
+Sharpe Ratio Buy & Hold: 0.07
+Max Drawdown Strategy: -52.20%
+Max Drawdown Buy & Hold: -48.30%

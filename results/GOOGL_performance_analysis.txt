@@ -1,0 +1,14 @@
+Analysis of GOOGL from 2015-01-01 to 2024-12-31
+
+Cumulative Strategy Return: 347.83%
+Cumulative Buy & Hold Return: 624.75%
+Annualized Strategy Return: 19.23%
+Annualized Buy & Hold Return: 26.99%
+CAGR Strategy: 16.17%
+CAGR Buy & Hold: 21.90%
+Strategy Volatility: 22.62%
+Buy & Hold Volatility: 28.47%
+Sharpe Ratio Strategy: 0.05
+Sharpe Ratio Buy & Hold: 0.05
+Max Drawdown Strategy: -30.86%
+Max Drawdown Buy & Hold: -44.32%

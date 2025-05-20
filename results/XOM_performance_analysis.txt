@@ -1,0 +1,14 @@
+Analysis of XOM from 2015-01-01 to 2024-12-31
+
+Cumulative Strategy Return: 37.27%
+Cumulative Buy & Hold Return: 76.10%
+Annualized Strategy Return: 5.03%
+Annualized Buy & Hold Return: 9.99%
+CAGR Strategy: 3.22%
+CAGR Buy & Hold: 5.82%
+Strategy Volatility: 18.61%
+Buy & Hold Volatility: 27.77%
+Sharpe Ratio Strategy: 0.01
+Sharpe Ratio Buy & Hold: 0.02
+Max Drawdown Strategy: -41.87%
+Max Drawdown Buy & Hold: -61.31%

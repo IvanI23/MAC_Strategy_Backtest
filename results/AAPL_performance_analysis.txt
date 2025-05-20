@@ -1,0 +1,14 @@
+Analysis of AAPL from 2015-01-01 to 2024-12-31
+
+Cumulative Strategy Return: 410.79%
+Cumulative Buy & Hold Return: 935.81%
+Annualized Strategy Return: 21.09%
+Annualized Buy & Hold Return: 31.63%
+CAGR Strategy: 17.71%
+CAGR Buy & Hold: 26.34%
+Strategy Volatility: 23.64%
+Buy & Hold Volatility: 28.47%
+Sharpe Ratio Strategy: 0.05
+Sharpe Ratio Buy & Hold: 0.06
+Max Drawdown Strategy: -45.61%
+Max Drawdown Buy & Hold: -38.52%

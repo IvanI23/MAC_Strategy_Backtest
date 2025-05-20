@@ -1,0 +1,14 @@
+Analysis of NVDA from 2015-01-01 to 2024-12-31
+
+Cumulative Strategy Return: 26110.20%
+Cumulative Buy & Hold Return: 28357.26%
+Annualized Strategy Return: 90.53%
+Annualized Buy & Hold Return: 97.98%
+CAGR Strategy: 74.52%
+CAGR Buy & Hold: 75.96%
+Strategy Volatility: 42.04%
+Buy & Hold Volatility: 48.61%
+Sharpe Ratio Strategy: 0.10
+Sharpe Ratio Buy & Hold: 0.09
+Max Drawdown Strategy: -37.55%
+Max Drawdown Buy & Hold: -66.34%

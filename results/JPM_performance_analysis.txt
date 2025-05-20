@@ -1,0 +1,14 @@
+Analysis of JPM from 2015-01-01 to 2024-12-31
+
+Cumulative Strategy Return: 201.09%
+Cumulative Buy & Hold Return: 401.46%
+Annualized Strategy Return: 14.20%
+Annualized Buy & Hold Return: 22.01%
+CAGR Strategy: 11.65%
+CAGR Buy & Hold: 17.50%
+Strategy Volatility: 21.11%
+Buy & Hold Volatility: 27.37%
+Sharpe Ratio Strategy: 0.04
+Sharpe Ratio Buy & Hold: 0.04
+Max Drawdown Strategy: -43.62%
+Max Drawdown Buy & Hold: -43.62%

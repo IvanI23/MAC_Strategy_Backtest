@@ -1,0 +1,14 @@
+Analysis of PG from 2015-01-01 to 2024-12-31
+
+Cumulative Strategy Return: 72.91%
+Cumulative Buy & Hold Return: 144.65%
+Annualized Strategy Return: 7.00%
+Annualized Buy & Hold Return: 11.26%
+CAGR Strategy: 5.63%
+CAGR Buy & Hold: 9.36%
+Strategy Volatility: 16.03%
+Buy & Hold Volatility: 18.47%
+Sharpe Ratio Strategy: 0.02
+Sharpe Ratio Buy & Hold: 0.03
+Max Drawdown Strategy: -23.15%
+Max Drawdown Buy & Hold: -24.49%

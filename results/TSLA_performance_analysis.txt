@@ -1,0 +1,14 @@
+Analysis of TSLA from 2015-01-01 to 2024-12-31
+
+Cumulative Strategy Return: 921.20%
+Cumulative Buy & Hold Return: 2754.68%
+Annualized Strategy Return: 39.39%
+Annualized Buy & Hold Return: 64.59%
+CAGR Strategy: 26.16%
+CAGR Buy & Hold: 39.82%
+Strategy Volatility: 44.69%
+Buy & Hold Volatility: 57.16%
+Sharpe Ratio Strategy: 0.05
+Sharpe Ratio Buy & Hold: 0.05
+Max Drawdown Strategy: -65.00%
+Max Drawdown Buy & Hold: -73.63%

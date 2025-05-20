@@ -1,0 +1,14 @@
+Analysis of VZ from 2015-01-01 to 2024-12-31
+
+Cumulative Strategy Return: -10.07%
+Cumulative Buy & Hold Return: 39.42%
+Annualized Strategy Return: -0.13%
+Annualized Buy & Hold Return: 5.34%
+CAGR Strategy: -1.06%
+CAGR Buy & Hold: 3.38%
+Strategy Volatility: 13.61%
+Buy & Hold Volatility: 19.36%
+Sharpe Ratio Strategy: -0.01
+Sharpe Ratio Buy & Hold: 0.01
+Max Drawdown Strategy: -37.94%
+Max Drawdown Buy & Hold: -41.20%

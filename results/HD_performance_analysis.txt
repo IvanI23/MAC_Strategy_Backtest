@@ -1,0 +1,14 @@
+Analysis of HD from 2015-01-01 to 2024-12-31
+
+Cumulative Strategy Return: 63.72%
+Cumulative Buy & Hold Return: 375.27%
+Annualized Strategy Return: 7.32%
+Annualized Buy & Hold Return: 20.47%
+CAGR Strategy: 5.05%
+CAGR Buy & Hold: 16.87%
+Strategy Volatility: 20.45%
+Buy & Hold Volatility: 24.36%
+Sharpe Ratio Strategy: 0.02
+Sharpe Ratio Buy & Hold: 0.05
+Max Drawdown Strategy: -37.98%
+Max Drawdown Buy & Hold: -37.98%

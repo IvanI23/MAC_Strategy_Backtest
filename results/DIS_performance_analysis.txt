@@ -1,0 +1,14 @@
+Analysis of DIS from 2015-01-01 to 2024-12-31
+
+Cumulative Strategy Return: -2.11%
+Cumulative Buy & Hold Return: 28.36%
+Annualized Strategy Return: 1.16%
+Annualized Buy & Hold Return: 6.57%
+CAGR Strategy: -0.21%
+CAGR Buy & Hold: 2.53%
+Strategy Volatility: 16.64%
+Buy & Hold Volatility: 27.83%
+Sharpe Ratio Strategy: 0.00
+Sharpe Ratio Buy & Hold: 0.01
+Max Drawdown Strategy: -38.49%
+Max Drawdown Buy & Hold: -60.70%

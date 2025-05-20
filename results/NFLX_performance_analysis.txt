@@ -1,0 +1,14 @@
+Analysis of NFLX from 2015-01-01 to 2024-12-31
+
+Cumulative Strategy Return: 548.31%
+Cumulative Buy & Hold Return: 1706.27%
+Annualized Strategy Return: 27.33%
+Annualized Buy & Hold Return: 47.17%
+CAGR Strategy: 20.55%
+CAGR Buy & Hold: 33.56%
+Strategy Volatility: 33.02%
+Buy & Hold Volatility: 43.64%
+Sharpe Ratio Strategy: 0.04
+Sharpe Ratio Buy & Hold: 0.05
+Max Drawdown Strategy: -55.14%
+Max Drawdown Buy & Hold: -75.95%

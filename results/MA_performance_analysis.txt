@@ -1,0 +1,14 @@
+Analysis of MA from 2015-01-01 to 2024-12-31
+
+Cumulative Strategy Return: 216.49%
+Cumulative Buy & Hold Return: 552.31%
+Annualized Strategy Return: 15.11%
+Annualized Buy & Hold Return: 25.05%
+CAGR Strategy: 12.21%
+CAGR Buy & Hold: 20.63%
+Strategy Volatility: 22.50%
+Buy & Hold Volatility: 26.70%
+Sharpe Ratio Strategy: 0.04
+Sharpe Ratio Buy & Hold: 0.05
+Max Drawdown Strategy: -40.99%
+Max Drawdown Buy & Hold: -41.00%

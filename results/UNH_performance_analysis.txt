@@ -1,0 +1,14 @@
+Analysis of UNH from 2015-01-01 to 2024-12-31
+
+Cumulative Strategy Return: 229.97%
+Cumulative Buy & Hold Return: 486.56%
+Annualized Strategy Return: 15.59%
+Annualized Buy & Hold Return: 23.56%
+CAGR Strategy: 12.68%
+CAGR Buy & Hold: 19.35%
+Strategy Volatility: 22.42%
+Buy & Hold Volatility: 26.15%
+Sharpe Ratio Strategy: 0.04
+Sharpe Ratio Buy & Hold: 0.05
+Max Drawdown Strategy: -35.86%
+Max Drawdown Buy & Hold: -35.90%

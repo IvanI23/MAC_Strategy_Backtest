@@ -1,0 +1,14 @@
+Analysis of MSFT from 2015-01-01 to 2024-12-31
+
+Cumulative Strategy Return: 768.20%
+Cumulative Buy & Hold Return: 958.01%
+Annualized Strategy Return: 27.63%
+Annualized Buy & Hold Return: 31.42%
+CAGR Strategy: 24.13%
+CAGR Buy & Hold: 26.60%
+Strategy Volatility: 23.39%
+Buy & Hold Volatility: 27.14%
+Sharpe Ratio Strategy: 0.06
+Sharpe Ratio Buy & Hold: 0.06
+Max Drawdown Strategy: -28.03%
+Max Drawdown Buy & Hold: -37.15%

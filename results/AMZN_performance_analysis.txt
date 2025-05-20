@@ -1,0 +1,14 @@
+Analysis of AMZN from 2015-01-01 to 2024-12-31
+
+Cumulative Strategy Return: 494.91%
+Cumulative Buy & Hold Return: 1334.48%
+Annualized Strategy Return: 23.31%
+Annualized Buy & Hold Return: 37.76%
+CAGR Strategy: 19.52%
+CAGR Buy & Hold: 30.52%
+Strategy Volatility: 24.85%
+Buy & Hold Volatility: 32.79%
+Sharpe Ratio Strategy: 0.05
+Sharpe Ratio Buy & Hold: 0.06
+Max Drawdown Strategy: -39.37%
+Max Drawdown Buy & Hold: -56.14%

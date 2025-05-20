@@ -1,0 +1,14 @@
+Analysis of V from 2015-01-01 to 2024-12-31
+
+Cumulative Strategy Return: 196.81%
+Cumulative Buy & Hold Return: 410.36%
+Annualized Strategy Return: 13.84%
+Annualized Buy & Hold Return: 21.31%
+CAGR Strategy: 11.49%
+CAGR Buy & Hold: 17.70%
+Strategy Volatility: 20.28%
+Buy & Hold Volatility: 24.43%
+Sharpe Ratio Strategy: 0.04
+Sharpe Ratio Buy & Hold: 0.05
+Max Drawdown Strategy: -36.36%
+Max Drawdown Buy & Hold: -36.36%

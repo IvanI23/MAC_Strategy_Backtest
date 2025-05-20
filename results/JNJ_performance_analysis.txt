@@ -1,0 +1,14 @@
+Analysis of JNJ from 2015-01-01 to 2024-12-31
+
+Cumulative Strategy Return: -11.22%
+Cumulative Buy & Hold Return: 80.67%
+Annualized Strategy Return: -0.03%
+Annualized Buy & Hold Return: 7.85%
+CAGR Strategy: -1.18%
+CAGR Buy & Hold: 6.09%
+Strategy Volatility: 15.20%
+Buy & Hold Volatility: 18.05%
+Sharpe Ratio Strategy: -0.00
+Sharpe Ratio Buy & Hold: 0.02
+Max Drawdown Strategy: -41.50%
+Max Drawdown Buy & Hold: -27.35%

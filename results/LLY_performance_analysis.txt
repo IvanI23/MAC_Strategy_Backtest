@@ -1,0 +1,14 @@
+Analysis of LLY from 2015-01-01 to 2024-12-31
+
+Cumulative Strategy Return: 338.86%
+Cumulative Buy & Hold Return: 1236.05%
+Annualized Strategy Return: 19.62%
+Annualized Buy & Hold Return: 34.75%
+CAGR Strategy: 15.94%
+CAGR Buy & Hold: 29.59%
+Strategy Volatility: 25.00%
+Buy & Hold Volatility: 27.87%
+Sharpe Ratio Strategy: 0.04
+Sharpe Ratio Buy & Hold: 0.07
+Max Drawdown Strategy: -35.81%
+Max Drawdown Buy & Hold: -24.23%

@@ -1,0 +1,14 @@
+Analysis of META from 2015-01-01 to 2024-12-31
+
+Cumulative Strategy Return: 507.37%
+Cumulative Buy & Hold Return: 656.17%
+Annualized Strategy Return: 24.30%
+Annualized Buy & Hold Return: 31.49%
+CAGR Strategy: 19.77%
+CAGR Buy & Hold: 22.42%
+Strategy Volatility: 27.13%
+Buy & Hold Volatility: 37.49%
+Sharpe Ratio Strategy: 0.05
+Sharpe Ratio Buy & Hold: 0.04
+Max Drawdown Strategy: -38.01%
+Max Drawdown Buy & Hold: -76.73%
